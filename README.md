@@ -31,4 +31,5 @@ I work with Python, SQL, and PySpark to develop batch and real-time data pipelin
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/kottapalli-sravya/
 - Twitter: https://x.com/Sravya1505
+- Email: kottapallisravya2004@gmail.com
 - Leetcode: https://leetcode.com/u/kottapallisravya/
