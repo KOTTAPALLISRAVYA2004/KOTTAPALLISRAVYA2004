@@ -1,29 +1,8 @@
-## Hi there 👋
-
-<!--
-**KOTTAPALLISRAVYA2004/KOTTAPALLISRAVYA2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ## Hi 👋, I'm Sravya
 
-🚀 Aspiring Data Engineer passionate about building scalable and reliable data systems.
+🚀 Data Engineer passionate about building scalable and reliable data systems.
 
 I work with Python, SQL, and PySpark to develop batch and real-time data pipelines. I have hands-on experience with Azure (ADF, ADLS Gen2, Databricks), Snowflake, dbt, and Kafka.
-
----
 
 ### 💡 What I Do
 - Build end-to-end ETL pipelines  
@@ -47,6 +26,14 @@ I work with Python, SQL, and PySpark to develop batch and real-time data pipelin
 - Building real-world data projects  
 
 ---
-
+- 🔭 Currently working on building scalable data pipelines  
+- 🌱 Learning dbt and advanced data engineering concepts  
+- 👯 Open to collaborating on data engineering projects  
+- 🤔 Looking for help with real-time streaming and optimization  
+- 💬 Ask me about Data Engineering, ETL, and Azure  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I enjoy turning raw data into meaningful insights 🚀  
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/kottapalli-sravya/
+- Twitter: https://x.com/Sravya1505
+- Leetcode: https://leetcode.com/u/kottapallisravya/
