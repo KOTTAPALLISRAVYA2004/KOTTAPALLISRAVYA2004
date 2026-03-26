@@ -20,19 +20,14 @@ I work with Python, SQL, and PySpark to develop batch and real-time data pipelin
 - **Tools:** Git, GitHub  
 
 ---
-
-### 📌 Currently
-- Learning advanced data engineering concepts  
-- Building real-world data projects  
-
----
 - 🔭 Currently working on building scalable data pipelines  
 - 🌱 Learning dbt and advanced data engineering concepts  
 - 👯 Open to collaborating on data engineering projects  
 - 🤔 Looking for help with real-time streaming and optimization  
 - 💬 Ask me about Data Engineering, ETL, and Azure  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I enjoy turning raw data into meaningful insights 🚀  
+- ⚡ Fun fact: I enjoy turning raw data into meaningful insights 🚀
+
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/kottapalli-sravya/
 - Twitter: https://x.com/Sravya1505
